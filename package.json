@@ -30,6 +30,7 @@
     "react-app-polyfill": "^1.0.4",
     "react-chartjs-2": "^2.8.0",
     "react-dom": "^16.11.0",
+    "react-native-axis-pad": "^0.9.4",
     "react-router-config": "^5.1.1",
     "react-router-dom": "^5.1.2",
     "react-test-renderer": "^16.11.0",
